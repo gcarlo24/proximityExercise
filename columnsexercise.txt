@@ -6,4 +6,4 @@ They stay the same size, but Div2 is cut off a little bit. They remain next to e
 Div1 moves right and Div2 moves left.
 Div1 is as wide as the whole page. Div2 stays the same size and moves below Div1.
 The Divs stay next to each other and don't get cut off.
- 
+The Divs were smaller so they could both fit but they did not get cut off. 
