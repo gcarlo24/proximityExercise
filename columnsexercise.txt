@@ -1,0 +1,9 @@
+very short
+Div 1 and 2 are shorter and the gray border is longer. The divs were 350 and now they are about 310.
+They both move to the right but stay around 300px each, next to each other instead of one on top of the other.
+Both of the divs move to the left of the screen,next to each other instead of on top.
+They stay the same size, but Div2 is cut off a little bit. They remain next to each other.
+Div1 moves right and Div2 moves left.
+Div1 is as wide as the whole page. Div2 stays the same size and moves below Div1.
+The Divs stay next to each other and don't get cut off.
+ 
